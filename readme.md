@@ -4,4 +4,4 @@ This is a link shortener built on Meteor and React
 
 ## Authors
 
-Sia
+Sia Hu Jiuh
